@@ -1,6 +1,6 @@
 <img src="icon_pro3.jpg" width="120">
 
-# **Facturador PRO 3**
+# **Facturacion Bee**
 
 
 ## Manuales de Instalación
@@ -63,14 +63,14 @@ Linux - Ubuntu 18 - Docker - SSL opcional<br>
 [URL](https://facturalo.pro "Clic")
 <br>
 Usuario: admin@gmail.com<br>
-Contraseña: 123456
+Contraseña: 12345678
 
 ### Panel de cliente
 
 [URL](https://demo.facturalo.pro "Clic")
 <br>
 Usuario: demo@gmail.com<br>
-Contraseña: 123456
+Contraseña: 12345667
 
 
 ## Manuales adicionales
@@ -130,8 +130,7 @@ Migracion Jira-Issues(Gitlab): [Guía](https://docs.google.com/document/d/156wEG
 * Toda instalación es gestionada mediante los canales de Slack
 * Nuevas instalaciones o actualizaciones deben ser programadas y gestionadas, para ser ejecutada el mismo día debe haber un problema previo
 
-## FacturaloPeru
+## Factura
 
-[facturaloperu.com](http://facturaloperu.com "Clic")<br>
-soporte@facturaloperu.com<br>
-wsapp: 930 973 902<br>
+ever.rod@hotmail.com<br>
+wsapp: 502 52528163<br>
